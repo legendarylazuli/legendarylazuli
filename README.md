@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything that has to do with being a developer; I want to learn it all!
 - 🌱 I’m currently learning how to build and host a website. Currently working on my personal website.
 - 💞️ I’m looking to collaborate on some kind of software in the future, like an app or program.
-- 📫 How to reach me: I have a Biosites on my profile where all of my socials and links are listed.
+- 📫 How to reach me: My personal website is listed on my main profile, and that is where all my links and socials are located.
 - ⚡ Fun fact: I am currently working on getting my CS degree!
 
 <!---
