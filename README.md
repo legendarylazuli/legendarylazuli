@@ -1,4 +1,4 @@
-hello! i'm lazuli: otherwise known as the infamous chronically online entity that loves to tinker with tech and code a variety of different things.</br>
+hello, i'm lazuli: a chronically online entity that loves to tinker with tech and code a variety of different things!</br>
 
 <details>
 <summary>click here to read more about me:</summary>
@@ -6,7 +6,7 @@ i only recently declared my major as computer science, so i don't have too much 
 please be patient with me as i become even more experienced and fill my github with even more cool things!
 on my profile, you'll find things such as scripts, my websites, bots, and much more to come. i hope you enjoy the things i create!
 
-i am currently in the process of creating my portfolio, but in the meanwhile, i will have my experience listed below:
+i am currently in the process of creating my portfolio, and will update this readme in the future, but in the meanwhile, i will have my experience listed below:
 
 [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
