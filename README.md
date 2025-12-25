@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @legendarylazuli
-- 👀 I’m interested in everything that has to do with being a developer; I want to learn it all!
-- 🌱 I’m currently learning how to build and host a website. Currently working on my personal website.
-- 💞️ I’m looking to collaborate on some kind of software in the future, like an app or program.
-- 📫 How to reach me: My personal website is listed on my main profile, and that is where all my links and socials are located.
-- ⚡ Fun fact: I am currently working on getting my CS degree!
+hello! i'm lazuli: otherwise known as the infamous chronically online entity that loves to tinker with tech and code a variety of different things.
+i recently declared my major as computer science, so i don't have too much experience yet, but i've always loved anything computer-related, and i am eager to learn. please be patient with me as i become more experienced!
+on my profile, you'll find things such as scripts, my websites, bots, and much more to come. i hope you enjoy the things i create!
+if you would like to know more about me, please visit my personal website: https://legendarylazuli.github.com
+
+i am currently in the process of creating my portfolio, but in the meanwhile, i will have my experience listed below:
+
+## experience
+[![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
+[![HTML Badge](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
+[![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
+[![Git Badge](https://img.shields.io/badge/git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/github-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
 
 <!---
 legendarylazuli/legendarylazuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
