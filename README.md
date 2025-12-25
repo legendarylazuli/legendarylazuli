@@ -1,11 +1,11 @@
 hello! i'm lazuli: otherwise known as the infamous chronically online entity that loves to tinker with tech and code a variety of different things.
-i recently declared my major as computer science, so i don't have too much experience yet, but i've always loved anything computer-related, and i am eager to learn. please be patient with me as i become more experienced!
+
+<summary>click here to read more about me:</summary>
+i only recently declared my major as computer science, so i don't have too much experience yet, but i've always loved anything computer-related, and i am eager to learn. please be patient with me as i become even more experienced!
 on my profile, you'll find things such as scripts, my websites, bots, and much more to come. i hope you enjoy the things i create!
-if you would like to know more about me, please visit my personal website: https://legendarylazuli.github.com
 
 i am currently in the process of creating my portfolio, but in the meanwhile, i will have my experience listed below:
 
-## experience
 [![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
 [![CSS Badge](https://img.shields.io/badge/css-%231572B6?style=flat&logo=css&logoColor=white)](https://wikipedia.org/wiki/CSS)
